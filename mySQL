@@ -1,0 +1,18 @@
+//показате все существующие таблицы
+show databases;	
+show tables;
+INSERT INTO url_site (url_site, cy_site) VALUES ('http//google.com','1800');
+SELECT * FROM url_site;
+DELETE FROM url_site;
+
+
+
+/*
+	PK - primary key (данное поле является первичным ключом);
+	NN - not null (данное поле не может быть пустым);
+	UQ - unique index (данное поле должно содержать уникальные значения, т.е. неповторяющиеся);
+	BIN - binary (поле типа TEXT с учётом регистра символов при поиске значений хранящихся в нём);
+	UN - unsigned (целые беззнаковые значения);
+	ZF - zero field? (значения от 0 и выше?) 
+	AI - auto incriment (счётчик++);
+*/

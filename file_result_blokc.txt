@@ -1,0 +1,214 @@
+0 => <div id="logostrip"><a href='http://spartakforum.ru/index.php?'><!--ipb.logo.start--><img src='   http://s019.radikal.ru/i612/1506/99/30715557c030.gif' alt='IPB' style='vertical-align:top' border='0' /><!--ipb.logo.end--></a></div>
+1 => <div class='ipb-top-left-link'><a href="http://spartakforum.ru">Форум болельщиков ФК Спартак Москва</a></div>
+2 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?act=Help">Помощь</a></div>
+3 => <div class='ipb-top-right-link' id="ipb-tl-search"><a href="http://spartakforum.ru/index.php?act=Search&amp;f=0">Поиск</a></div>
+4 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?act=calendar">Календарь</a></div>
+5 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?act=Members">Пользователи</a> </div>
+6 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?act=rep&amp;type=rating">Репутация</a></div>
+7 => <div class='ipb-top-right-link'><a href="/index.php?automodule=awards" >Награды </a></div>
+8 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?showtopic=9805&pid=1052037&st=0&#entry1052037" style="color: red">П&#1056;&#1040;&#1042;&#1048;&#1051;&#1040; &#1060;&#1054;&#1056;&#1059;&#1052;&#1040; </a></div>
+9 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?automodule=awards">Награды</a></div>
+10 => <div style='float:right'><a href='#' onclick='document.getElementById("get-myassistant").style.display="none"; return false;' title='Закрыть окно'>[X]</a></div>
+11 => <div id='myass-content' style='overflow-x:auto;'></div>
+12 => <div style='float:right'><a href='#' onclick='hide_awards()'>[X]</a></div>
+13 => <div id='awards-content' style='overflow-x:auto;'></div>
+14 => <div id='ipd-msg-inner'><span style='font-weight:bold' id='ipd-msg-text'></span><div class='pp-tiny-text'>(Сообщение закроется через 2 секунды)</div></div>
+15 => <div id="navstrip"><img src='style_images/1/nav.gif' border='0'  alt='&gt;' />&nbsp;<a href='http://spartakforum.ru/index.php?act=idx'>Форум болельщиков ФК Спартак Москва</a>&nbsp;-&gt;&nbsp;Просмотр профиля</div>
+16 => <div class="pp-title">Профиль</div>
+17 => <div class='pp-header'>Фотография</div>
+18 => <div class='pp-header'>Рейтинг</div>
+19 => <div class='pp-header'>Опции</div>
+20 => <div class='popmenubutton-new' id='profile-options'>Опции</div>
+21 => <div class='pp-header'>О себе</div>
+22 => <div class='pp-header'>Личная информация</div>
+23 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>Starostin</div>
+24 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>carpe diem</div>
+25 => <div class='pp-header'>Интересы</div>
+26 => <div class='pp-header'>Другая информация</div>
+27 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>Пол: Мужчина</div>
+28 => <div class='pp-header'>Статистика</div>
+29 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>Регистрация: 24-September 05</div>
+30 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>Просмотров профиля: 20.708<span class='pp-tiny-text'>*</span></div>
+31 => <div class='row2' style='padding:6px; margin-bottom:1px; padding-left:10px'>Часовой пояс: Nov 18 2016, 11:11</div>
+32 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>18.039 сообщений (4,43 за день)</div>
+33 => <div class='pp-header'>Контактная информация</div>
+34 => <div class='pp-tiny-text'>* Просмотры профиля обновляются каждый час</div>
+35 => <div class='pp-taboff' id='pp-content-tab-aboutme'>О себе</div>
+36 => <div class='pp-taboff' id='pp-content-tab-topics'>Темы</div>
+37 => <div class='pp-taboff' id='pp-content-tab-posts'>Сообщения</div>
+38 => <div class='pp-taboff' id='pp-content-tab-awards'>Награды</div>
+39 => <div class='pp-taboff' id='pp-content-tab-comments'>Комментарии</div>
+40 => <div class='pp-taboff' id='pp-content-tab-friends'>Друзья</div>
+41 => <div class="signature">No one I think is in my tree<br />I mean it must be high or low<br /><br />Заблуждение не перестает быть заблуждением от того, что большинство разделяет его.<br /><br />Кто свободен от стереотипов, должен быть готов к тому, что его не поймут.<br /><br />По крайней мере, я попробовал.<br /><br />---<br /><font color="#ff0000">Тема обратной связи с администрацией форума находится <a href="http://spartakforum.ru/index.php?showtopic=16917&pid=1684301&st=0&#entry1684301" target="_blank">здесь</a>. Можно задать вопрос, выразить претензию или пожелание/предложение.</font></div>
+42 => <div class="pp-title">Просмотры</div>
+43 => <div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-12670.jpg' width='41' height='50' alt='' /></div>
+44 => <div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-2128.jpg' width='50' height='41' alt='' /></div>
+45 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+46 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+47 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+48 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+49 => <div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5050.jpg' width='38' height='50' alt='' /></div>
+50 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+51 => <div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-9666.jpg' width='50' height='38' alt='' /></div>
+52 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+53 => <div class="pp-title">Комментарии</div>
+54 => <div class='pp-image-mini-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='25' height='25' alt='' /></div>
+55 => <div class='pp-image-mini-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5374.jpg' width='25' height='18' alt='' /></div>
+56 => <div class='pp-image-mini-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5418.png' width='25' height='18' alt='' /></div>
+57 => <div class='pp-image-mini-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5418.png' width='25' height='18' alt='' /></div>
+58 => <div class='pp-image-mini-wrap-floatright'><img src='http://spartakforum.ru/uploads/photo-thumb-1373.jpg' width='25' height='19' alt='' /></div>
+59 => <div class="pp-title">Друзья</div>
+60 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+61 => <div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/photo-thumb-1373.jpg' width='50' height='38' alt='' /></div>
+62 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+63 => <div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5127.jpg' width='50' height='34' alt='' /></div>
+64 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+65 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+66 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+67 => <div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+68 => <div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-6273.gif' width='50' height='50' alt='' /></div>
+69 => <div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-6945.png' width='50' height='50' alt='' /></div>
+70 => <div><img src="//mc.yandex.ru/watch/27977784" style="position:absolute; left:-9999px;" alt="" /></div>
+71 => <div id="vk_api_transport"></div>
+
+
+======================================================================================================
+
+0 => <div class="borderwrap">
+        <div id="logostrip"><a href='http://spartakforum.ru/index.php?'><!--ipb.logo.start--><img src='   http://s019.radikal.ru/i612/1506/99/30715557c030.gif' alt='IPB' style='vertical-align:top' border='0' /><!--ipb.logo.end--></a></div>
+1 => <div class='ipb-top-left-link'><a href="http://spartakforum.ru">Форум болельщиков ФК Спартак Москва</a></div>
+2 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?act=Help">Помощь</a></div>
+                <div class='ipb-top-right-link' id="ipb-tl-search"><a href="http://spartakforum.ru/index.php?act=Search&amp;f=0">Поиск</a></div>
+3 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?act=calendar">Календарь</a></div>
+                         <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?act=Members">Пользователи</a> </div>
+4 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?act=rep&amp;type=rating">Репутация</a></div>
+<div class='ipb-top-right-link'><a href="/index.php?automodule=awards" >Награды </a></div>
+5 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?showtopic=9805&pid=1052037&st=0&#entry1052037" style="color: red">П&#1056;&#1040;&#1042;&#1048;&#1051;&#1040; &#1060;&#1054;&#1056;&#1059;&#1052;&#1040; </a></div>
+6 => <div class='ipb-top-right-link'><a href="http://spartakforum.ru/index.php?automodule=awards">Награды</a></div>
+7 => <div class='maintitle' id='myass-drag' title='Нажмите и задержите для перемещения этого окна'>
+  <div style='float:right'><a href='#' onclick='document.getElementById("get-myassistant").style.display="none"; return false;' title='Закрыть окно'>[X]</a></div>
+8 => <div>Помощник</div>
+ </div>
+9 => <div id='myass-content' style='overflow-x:auto;'></div>
+ </div>
+10 => <div class='maintitle' id='awards-drag' title=''>
+  <div style='float:right'><a href='#' onclick='hide_awards()'>[X]</a></div>
+11 => <div>Награды</div>
+ </div>
+12 => <div id='awards-content' style='overflow-x:auto;'></div>
+ </div>
+13 => <div id='ipd-msg-inner'><span style='font-weight:bold' id='ipd-msg-text'></span><div class='pp-tiny-text'>(Сообщение закроется через 2 секунды)</div></div>
+</div>
+14 => <div id="navstrip"><img src='style_images/1/nav.gif' border='0'  alt='&gt;' />&nbsp;<a href='http://spartakforum.ru/index.php?act=idx'>Форум болельщиков ФК Спартак Москва</a>&nbsp;-&gt;&nbsp;Просмотр профиля</div>
+15 => <div class="borderwrap" style='padding:1px'>
+			<div class="pp-title">Профиль</div>
+16 => <div class='pp-header'>Фотография</div>
+17 => <div class='pp-header'>Рейтинг</div>
+18 => <div class='pp-header'>Опции</div>
+19 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px; text-align: center'>
+				<div class='popmenubutton-new' id='profile-options'>Опции</div>
+20 => <div class='pp-header'>О себе</div>
+21 => <div class='pp-header'>Личная информация</div>
+			<div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>Starostin</div>
+22 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>carpe diem</div>
+23 => <div class='pp-header'>Интересы</div>
+24 => <div class='pp-header'>Другая информация</div>
+25 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>Пол: Мужчина</div>
+26 => <div class='pp-header'>Статистика</div>
+			<div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>Регистрация: 24-September 05</div>
+27 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>Просмотров профиля: 20.708<span class='pp-tiny-text'>*</span></div>
+28 => <div class='row2' style='padding:6px; margin-bottom:1px; padding-left:10px'>Часовой пояс: Nov 18 2016, 11:12</div>
+29 => <div class='row1' style='padding:6px; margin-bottom:1px; padding-left:10px'>18.039 сообщений (4,43 за день)</div>
+30 => <div class='pp-header'>Контактная информация</div>
+31 => <div class='pp-tiny-text'>* Просмотры профиля обновляются каждый час</div>
+32 => <div class='pp-taboff' id='pp-content-tab-aboutme'>О себе</div>
+33 => <div class='pp-taboff' id='pp-content-tab-topics'>Темы</div>
+34 => <div class='pp-taboff' id='pp-content-tab-posts'>Сообщения</div>
+35 => <div class='pp-taboff' id='pp-content-tab-awards'>Награды</div>
+36 => <div class='pp-taboff' id='pp-content-tab-comments'>Комментарии</div>
+				<div class='pp-taboff' id='pp-content-tab-friends'>Друзья</div>
+37 => <div class="pp-tabclear">Содержимое</div>
+38 => <div class="signature">No one I think is in my tree<br />I mean it must be high or low<br /><br />Заблуждение не перестает быть заблуждением от того, что большинство разделяет его.<br /><br />Кто свободен от стереотипов, должен быть готов к тому, что его не поймут.<br /><br />По крайней мере, я попробовал.<br /><br />---<br /><font color="#ff0000">Тема обратной связи с администрацией форума находится <a href="http://spartakforum.ru/index.php?showtopic=16917&pid=1684301&st=0&#entry1684301" target="_blank">здесь</a>. Можно задать вопрос, выразить претензию или пожелание/предложение.</font></div>
+	</div>
+39 => <div class="borderwrap" style='padding:1px'>
+				<div class="pp-title">Просмотры</div>
+40 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-12670.jpg' width='41' height='50' alt='' /></div>
+41 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 9 Nov 2016 - 23:17</div>
+42 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-2128.jpg' width='50' height='41' alt='' /></div>
+43 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 4 Nov 2016 - 15:20</div>
+44 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+45 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 4 Nov 2016 - 14:35</div>
+46 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+47 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 29 Oct 2016 - 20:29</div>
+48 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+49 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 19 Oct 2016 - 12:21</div>
+50 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+51 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 19 Oct 2016 - 11:44</div>
+52 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5050.jpg' width='38' height='50' alt='' /></div>
+53 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 5 Oct 2016 - 19:22</div>
+54 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+55 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 16 Sep 2016 - 19:02</div>
+56 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-9666.jpg' width='50' height='38' alt='' /></div>
+57 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 16 Sep 2016 - 14:45</div>
+58 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+59 => <div class='pp-tiny-text'>
+	<img src='style_images/1/folder_profile_portal/user-offline.png' alt='' border='0' /> 3 Sep 2016 - 20:53</div>
+60 => <div class="borderwrap" style='padding:1px'>
+				<div class="pp-title">Комментарии</div>
+61 => <div class='pp-tiny-text'>
+			<div class='pp-image-mini-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='25' height='25' alt='' /></div>
+62 => <div class='pp-tiny-text'>
+			<div class='pp-image-mini-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5374.jpg' width='25' height='18' alt='' /></div>
+63 => <div class='pp-tiny-text'>
+			<div class='pp-image-mini-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5418.png' width='25' height='18' alt='' /></div>
+64 => <div class='pp-tiny-text'>
+			<div class='pp-image-mini-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5418.png' width='25' height='18' alt='' /></div>
+65 => <div class='pp-tiny-text'>
+			<div class='pp-image-mini-wrap-floatright'><img src='http://spartakforum.ru/uploads/photo-thumb-1373.jpg' width='25' height='19' alt='' /></div>
+66 => <div class="borderwrap" style='padding:1px'>
+				<div class="pp-title">Друзья</div>
+67 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/photo-thumb-106.jpg' width='43' height='50' alt='' /></div>
+68 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+69 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+70 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-3408.jpg' width='50' height='35' alt='' /></div>
+71 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+72 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-thumb-5127.jpg' width='50' height='34' alt='' /></div>
+73 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+74 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='style_images/1/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' /></div>
+75 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-6273.gif' width='50' height='50' alt='' /></div>
+76 => <div class='pp-mini-content-entry'>
+							<div class='pp-image-thumb-wrap-floatright'><img src='http://spartakforum.ru/uploads/profile/photo-6945.png' width='50' height='50' alt='' /></div>
+77 => <div><img src="//mc.yandex.ru/watch/27977784" style="position:absolute; left:-9999px;" alt="" /></div>
+78 => <div id="vk_api_transport"></div>
+
+
+======================================================================================================
+

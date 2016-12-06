@@ -1,0 +1,15 @@
+inurl:links/add.htm 				
+inurl:links.php?mode=				
+inurl:index.php?showuser			
+inurl:index.php?action=profile 		
+inurl:member.php?u= 				
+inurl:action=get_profile			
+inurl:mode=viewprofile 				
+inurl:forum/profile.php?mode=		
+inurl:memberlist.php?mode=joined	
+inurl:?act=s_add					
+inurl:”links_ex.php” 				
+inurl:”agreed=true”					
+inurl:/index.php?do=register 		
+inurl:"forum/viewtopic.php" 		
+inurl:"forums/viewtopic.php"		
